@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Duck Care",
+  "description": "ระบบฟาร์มเป็ดอัจฉริยะด้วย AI เพื่อชุมชนและโรงเรียนที่ยั่งยืน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
